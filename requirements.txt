@@ -1,0 +1,13 @@
+# Example requirements.txt
+
+# Major dependencies
+tkinter
+Pillow==9.5.0
+sqlite3
+
+# Other packages
+requests
+logging
+
+
+# pip install -r requirements.txt
